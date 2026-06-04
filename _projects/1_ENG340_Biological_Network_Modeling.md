@@ -1,25 +1,15 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: Biological Network Modeling
+description: ENG340/542 James Glazier at Indiana University 
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Engineering 340/542 teaches how to model network dynamics using the Tellurium/Antimony model specification framework and Python-based Jupyter notebooks. The course covers the basics of developing simple metabolic, cell-signaling, gene-regulatory and pharmaco-kinetic network models and fitting models to experimental data.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
