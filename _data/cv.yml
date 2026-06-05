@@ -46,7 +46,7 @@ cv:
 #          - Description 1.
 #          - Description 2.
 
-#    Experience:
+    Experience:
 #      - company: Institute for Advanced Study, Princeton University
 #        position: Professor of Theoretical Physics
 #        location: Princeton University, NJ
@@ -57,7 +57,7 @@ cv:
 #          - Relativity
 #          - Description 2.
 
-#    Volunteer:
+    Volunteer:
 #      - company: People's Climate March
 #        position: Lead Organizer
 #        location: Zurich, Switzerland
@@ -68,7 +68,7 @@ cv:
 #          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
 #          - "Men of the year 2014 by Time magazine"
 
-#    Awards:
+    Awards:
 #      - title: Nobel Prize in Physics
 #        authors:
 #          - "Royal Swedish Academy of Sciences"
@@ -106,7 +106,7 @@ cv:
         url: http://dx.doi.org/10.1007/s11695-023-06870-2
 #        summary: 
 
-#    Skills:
+    Skills:
 #      - name: Physics
 #        level: Master
 #        icon: fa-solid fa-hashtag
