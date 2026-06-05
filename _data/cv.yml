@@ -86,7 +86,7 @@ cv:
 
     Publications:
 
-      - title: Lightweight MRI-Based Automated Segmentation of Pancreatic Cancer with Auto3DSeg
+      - title: "Lightweight MRI-Based Automated Segmentation of Pancreatic Cancer with Auto3DSeg"
         authors:
           - Keshav Jha
           - William Sharp
@@ -96,7 +96,7 @@ cv:
         url: https://doi.org/10.48550/arxiv.2508.21227
 #        summary:
 
-      - title: Remission of Type II Diabetes Mellitus after Duodenal Switch: the Contribution of Common Channel Length
+      - title: "Remission of Type II Diabetes Mellitus after Duodenal Switch: the Contribution of Common Channel Length"
         authors:
           - Lindsey Sharp
           - William T. Sharp
