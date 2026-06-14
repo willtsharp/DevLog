@@ -86,6 +86,15 @@ cv:
 
     Publications:
 
+      - title: Piezo2 tension sensitivity and its modulation by alternative splicing
+        authors:
+          - Michael Sindoni
+          - William Sharp
+          - Jorg Grandl
+        publisher: Cell Reports
+        releaseDate: 2026-06-23
+        url: https://doi.org/10.1016/j.celrep.2026.117521
+
       - title: "Lightweight MRI-Based Automated Segmentation of Pancreatic Cancer with Auto3DSeg"
         authors:
           - Keshav Jha
